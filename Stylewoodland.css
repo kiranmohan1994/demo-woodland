@@ -1,0 +1,9 @@
+.carousel-item img{
+    height: 500px;
+}
+.modal-dialog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
